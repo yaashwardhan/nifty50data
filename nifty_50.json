@@ -1,0 +1,252 @@
+[
+    {
+        "company_name": "Reliance Industries Limited",
+        "stock_ticker": "RELIANCE.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "HDFC Bank Limited",
+        "stock_ticker": "HDFCBANK.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Infosys Limited",
+        "stock_ticker": "INFY.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Tata Consultancy Services Limited",
+        "stock_ticker": "TCS.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "ITC Limited",
+        "stock_ticker": "ITC.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "ICICI Bank Limited",
+        "stock_ticker": "ICICIBANK.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Larsen & Toubro Limited",
+        "stock_ticker": "LT.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Hindustan Unilever Limited",
+        "stock_ticker": "HINDUNILVR.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "State Bank of India",
+        "stock_ticker": "SBIN.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Bharti Airtel Limited",
+        "stock_ticker": "BHARTIARTL.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Axis Bank Limited",
+        "stock_ticker": "AXISBANK.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "HCL Technologies Limited",
+        "stock_ticker": "HCLTECH.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Kotak Mahindra Bank Limited",
+        "stock_ticker": "KOTAKBANK.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Tata Motors Limited",
+        "stock_ticker": "TATAMOTORS.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Asian Paints Limited",
+        "stock_ticker": "ASIANPAINT.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Maruti Suzuki India Limited",
+        "stock_ticker": "MARUTI.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "UltraTech Cement Limited",
+        "stock_ticker": "ULTRACEMCO.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Mahindra & Mahindra Limited",
+        "stock_ticker": "M&M.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Nestle India Limited",
+        "stock_ticker": "NESTLEIND.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Tata Steel Limited",
+        "stock_ticker": "TATASTEEL.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Titan Company Limited",
+        "stock_ticker": "TITAN.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Power Grid Corporation of India Limited",
+        "stock_ticker": "POWERGRID.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "NTPC Limited",
+        "stock_ticker": "NTPC.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Bajaj Finance Limited",
+        "stock_ticker": "BAJFINANCE.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Bajaj Auto Limited",
+        "stock_ticker": "BAJAJ-AUTO.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Hindalco Industries Limited",
+        "stock_ticker": "HINDALCO.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "IndusInd Bank Limited",
+        "stock_ticker": "INDUSINDBK.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Tech Mahindra Limited",
+        "stock_ticker": "TECHM.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Wipro Limited",
+        "stock_ticker": "WIPRO.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Coal India Limited",
+        "stock_ticker": "COALINDIA.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Cipla Limited",
+        "stock_ticker": "CIPLA.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Bharat Petroleum Corporation Limited",
+        "stock_ticker": "BPCL.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "JSW Steel Limited",
+        "stock_ticker": "JSWSTEEL.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Apollo Hospitals Enterprise Limited",
+        "stock_ticker": "APOLLOHOSP.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Adani Enterprises Limited",
+        "stock_ticker": "ADANIENT.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Shriram Finance Limited",
+        "stock_ticker": "SHRIRAMFIN.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Hero MotoCorp Limited",
+        "stock_ticker": "HEROMOTOCO.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "SBI Life Insurance Company Limited",
+        "stock_ticker": "SBILIFE.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Tata Consumer Products Limited",
+        "stock_ticker": "TATACONSUM.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Eicher Motors Limited",
+        "stock_ticker": "EICHERMOT.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Grasim Industries Limited",
+        "stock_ticker": "GRASIM.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Britannia Industries Limited",
+        "stock_ticker": "BRITANNIA.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "HDFC Life Insurance Company Ltd",
+        "stock_ticker": "HDFCLIFE.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Bajaj Finserv Ltd",
+        "stock_ticker": "BAJAJFINSV.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "LTIMindtree Ltd",
+        "stock_ticker": "LTIM.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Sun Pharmaceuticals Industries Ltd",
+        "stock_ticker": "SUNPHARMA.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Divis Laboratories Ltd",
+        "stock_ticker": "DIVISLAB.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Adani Ports & Special Economic Zone Ltd",
+        "stock_ticker": "ADANIPORTS.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Dr Reddy's Laboratories Ltd",
+        "stock_ticker": "DRREDDY.NS",
+        "logo_url": ""
+    },
+    {
+        "company_name": "Oil & Natural Gas Corporation Ltd",
+        "stock_ticker": "ONGC.NS",
+        "logo_url": ""
+    }
+]
